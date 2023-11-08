@@ -1,0 +1,74 @@
+.side-image{
+    width: 200px;
+    height: 100px;
+}
+.side-image-display{
+    width: 600px;
+    height: 800px;
+}
+.container{
+    margin-bottom: 5rem;
+}
+/* .container-box{
+    display: flex;
+} */
+
+.login-form{
+    width: 700px;
+    height: 800px;
+    background-color: aliceblue;
+    margin-left: 16rem;
+    
+}
+.login-form-header{
+    padding-top: 6rem;
+}
+.login-form-paragraph{
+    padding-bottom: 2rem;
+}
+.login-form-container{
+    display: flex;
+   justify-content: space-between;
+}
+.checkbox{
+    margin-right: 23rem;
+}
+.login-form-button{
+    width: 500px;
+    height: 50px;
+    
+}
+.Username{
+    width: 500px;
+    height: 60px;
+}
+.password{
+    width: 500px;
+    height: 60px;
+}
+.login-form-social{
+    
+    padding: 20px;
+
+}
+.social-button{
+    justify-content: space-between;
+    margin-left: 1rem;
+    
+}
+.social-button.facebook {
+    background-color: rgb(80, 80, 236); 
+  }
+  
+  .social-button.google {
+    background-color: orange; 
+  }
+  
+  .social-button.github {
+    background-color: rgb(94, 92, 92); 
+  }
+  
+  .social-button.twitter {
+    background-color: skyblue; 
+  }
+  
