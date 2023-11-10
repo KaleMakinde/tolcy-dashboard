@@ -24,7 +24,7 @@ const Login = () => {
             <div className='container'>
                 <div className='container-header'>
                     <h2><i></i> Tocly</h2>
-                    <p>User Experience & Interface Design Strategy Saas Solution</p>
+                    <p className='container-header-txt'>User Experience & Interface Design Strategy Saas Solution</p>
                 </div>
 
                 <div className='login-form-container'>
